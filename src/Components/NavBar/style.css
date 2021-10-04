@@ -1,0 +1,22 @@
+ul {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+}
+
+li {
+    list-style: none;
+}
+
+#Change_Blue {
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    background-image: radial-gradient(#212121 5%, blue 5%);
+    
+}
